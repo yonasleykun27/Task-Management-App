@@ -1,4 +1,4 @@
-const tasks = []; 
+const tasks = [];
 
 // Set the minimum date for start and end date inputs
 document.addEventListener('DOMContentLoaded', () => {
